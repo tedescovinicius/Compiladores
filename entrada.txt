@@ -1,0 +1,19 @@
+if
+else
+int
+float
+char
+=
++
+-
+*
+==
+>
+!=
+&
+|
+{
+}
+
+<S> ::= a<A> | e<A> | i<A> | o<A> | u<A>
+<A> ::= a<A> | e<A> | i<A> | o<A> | u<A> | ε
