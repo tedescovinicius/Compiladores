@@ -1,4 +1,4 @@
-int a
-if a > e {
+float f
+if f > e {
     e = a
-} else { a = e }
+} else { f = e }
